@@ -1,0 +1,15 @@
+{
+    "name": "braintest/test",
+    "description": "This is a test",
+    "require": {
+        "braintree/braintree_php" : "2.37.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Not",
+            "email": "me@d.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
